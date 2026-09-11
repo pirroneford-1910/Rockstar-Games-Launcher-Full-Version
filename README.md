@@ -236,3 +236,6 @@ This repository serves as the official landing page for Rockstar Games Launcher.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Rockstar Games Launcher today!**
+
+---
+**Last updated:** 2026-09-11 17:56:54 UTC
