@@ -238,4 +238,4 @@ This repository serves as the official landing page for Rockstar Games Launcher.
 **Get the most recent version of Rockstar Games Launcher today!**
 
 ---
-**Last updated:** 2026-09-26 18:05:23 UTC
+**Last updated:** 2026-09-26 21:37:55 UTC
